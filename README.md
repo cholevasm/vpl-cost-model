@@ -1,4 +1,4 @@
-# VPL — A Cost Model for Satellite Constellations
+# VPL: A Cost Model for Satellite Constellations
 
 A parametric **cost estimating relationship (CER)** for the development and production cost of
 navigation and communication satellite constellations, for Earth and Mars orbit. Winner of the
